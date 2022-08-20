@@ -5,7 +5,7 @@
 <p align="center">
 <b>
 A runtime approach that mitigates
-DNN mis-predictions caused by the unexpected runtime inputs to
+DNN mis-predictions caused by the unexpected inputs to
 the DNN.</b>
 <br/><br/>
 <a href=""><img src="images/figure1.png" alt="Logo" width=90%></a>
