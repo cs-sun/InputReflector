@@ -4,7 +4,9 @@
 
 <p align="center">
 <b>
-Code release and supplementary materials for the InputReflector titled "Repairing Failure-inducing Inputs with Input Reflection".</b>
+A runtime approach that mitigates
+DNN mis-predictions caused by the unexpected runtime inputs to
+the DNN.</b>
 <br/><br/>
 <a href=""><img src="images/figure1.png" alt="Logo" width=90%></a>
 
@@ -44,7 +46,7 @@ Code release and supplementary materials for the InputReflector titled "Repairin
     <a href='https://trustdnn.comp.nus.edu.sg'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
     <a href='https://youtu.be/'>
-      <img src='https://img.shields.io/badge/Youtube-Video-red?style=flat&logo=youtube&logoColor=red' alt='Youtube Video'>
+      <img src='https://img.shields.io/badge/Presentation-Video-red?style=flat&logo=youtube&logoColor=red' alt='Youtube Video'>
     </a>
     <!-- <a href='https://colab.research.google.com/drive/' style='padding-left: 0.5rem;'>
       <img src='https://colab.research.google.com/assets/colab-badge.svg' alt='Google Colab'>
@@ -65,7 +67,7 @@ In this paper we describe a runtime approach that mitigates
 DNN mis-predictions caused by the unexpected runtime inputs to
 the DNN.
 
-### Repo structure
+## Repo structure
 - `resnet.py`: code for Resnet-20 to train the subject models
 - `train_model.py`: code for ConvNet and VGG-16 to train the subject models
 - `special_transformation.py`: code for transformations
@@ -76,10 +78,10 @@ the DNN.
 - `collect_auroc_sia.py`: generate AUROC from the distance
 - `search_threshold_quad.py`: search for the best threshold of detecting deviated data on the validation dataset and calculate the model accuracy after calling InputReflector
 
-### Dependencies
+## Dependencies
 pip install -r requirements.txt
 
-### How to run
+## How to run
 
 - To train the subject models and InputReflector: bash log.sh
 - To evaluate the performance of InputReflector: bash log_eval.sh
