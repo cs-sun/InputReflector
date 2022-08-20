@@ -25,9 +25,9 @@ Code release and supplementary materials for the InputReflector titled "Repairin
     ·
     <a href="https://www.comp.nus.edu.sg/~dongjs/"><strong>Jin Song Dong</strong></a>
     <br/><br/>
-    <a href="https://www.comp.nus.edu.sg"><img src="https://www.comp.nus.edu.sg/templates/t3_nus2015/images/assets/logos/logo.png" alt="Logo" height=50px style="padding-right: 20px; padding left: 20px;"> </a>  
-    <a href=""> <img src="https://brand3.sites.olt.ubc.ca/files/2018/09/5NarrowLogo_ex_768.png" height=55px style="padding-right: 20px; padding left: 20px;"> </a>
-    <a href=""> <img src="https://cs.gmu.edu/~dsr/images/GMU_PLogo_RGB.jpg" height=70px style="padding-right: 20px; padding left: 20px;"> </a>
+    <a href="https://www.comp.nus.edu.sg"><img src="https://www.comp.nus.edu.sg/templates/t3_nus2015/images/assets/logos/logo.png" alt="Logo" height=40px style="padding-right: 40px; padding left: 20px;"> </a>  
+    <a href=""> <img src="https://brand3.sites.olt.ubc.ca/files/2018/09/5NarrowLogo_ex_768.png" height=45px style="padding-right: 20px; padding left: 20px;"> </a>
+    <a href=""> <img src="https://cs.gmu.edu/~dsr/images/GMU_PLogo_RGB.jpg" height=60px style="padding-right: 20px; padding left: 20px;"> </a>
     <br/><br/>
   </p>
 
