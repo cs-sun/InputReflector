@@ -113,3 +113,15 @@ In our experiment, we trained a distribution analyzer with one transformation (e
 
 
 
+## Citation
+```bibtex
+@inproceedings{
+}
+```
+
+## License
+This code and model are available for non-commercial scientific research purposes as defined in the [LICENSE](LICENSE) file. By downloading and using the code and model you agree to the terms in the [LICENSE](LICENSE).
+
+## Contact
+
+For more questions, please contact cssun@u.nus.edu
