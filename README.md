@@ -13,22 +13,23 @@ the DNN.</b>
 
 
 <p align="center">
+  <b>"Repairing Failure-inducing Inputs with Input Reflection"</b></br>
     The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2022</b>)
     <br />
-    <a href="https://yanxiao6.github.io/"><strong>Yan Xiao</strong></a>
+    <a href="https://yanxiao6.github.io/">Yan Xiao</a>
     ·
-    <a href="http://linyun.info"><strong>Yun Lin</strong></a>
+    <a href="http://linyun.info">Yun Lin</a>
     ·
-    <a href="https://www.cs.ubc.ca/~bestchai/"><strong>Ivan Beschastnikh</strong></a>
+    <a href="https://www.cs.ubc.ca/~bestchai/">Ivan Beschastnikh</a>
     ·
-    <a href="https://sunchangsheng.com"><strong>Changsheng Sun</strong></a>
+    <a href="https://sunchangsheng.com">Changsheng Sun</a>
     <br/>
-    <a href="https://cs.gmu.edu/~dsr/"><strong>David S. Rosenblum</strong></a>
+    <a href="https://cs.gmu.edu/~dsr/">David S. Rosenblum</a>
     ·
-    <a href="https://www.comp.nus.edu.sg/~dongjs/"><strong>Jin Song Dong</strong></a>
+    <a href="https://www.comp.nus.edu.sg/~dongjs/">Jin Song Dong</a>
     <br/><br/>
-    <a href="https://www.comp.nus.edu.sg"><img src="https://www.comp.nus.edu.sg/templates/t3_nus2015/images/assets/logos/logo.png" alt="Logo" height=40px style="padding-right: 40px; padding left: 20px;"> </a>  <br/>
-    <a href=""> <img src="https://brand3.sites.olt.ubc.ca/files/2018/09/5NarrowLogo_ex_768.png" height=45px style="padding-right: 20px; padding left: 20px;"> </a>
+    <a href="https://www.comp.nus.edu.sg"><img src="https://www.comp.nus.edu.sg/templates/t3_nus2015/images/assets/logos/logo.png" alt="Logo" height=45px style="padding-right: 40px; padding left: 20px;"> </a>  <br/>
+    <a href=""> <img src="https://brand3.sites.olt.ubc.ca/files/2018/09/5NarrowLogo_ex_768.png" height=50px style="padding-right: 20px; padding left: 20px;"> </a>
     <a href=""> <img src="https://cs.gmu.edu/~dsr/images/GMU_PLogo_RGB.jpg" height=60px style="padding-right: 20px; padding left: 20px;"> </a>
     <br/><br/>
   </p>
@@ -38,7 +39,7 @@ the DNN.</b>
     <!-- <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
     <a href="https://pytorchlightning.ai/"><img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white"></a><br><br> -->
     <a href='https://dl.acm.org/doi/abs/10.1109/ICSE43902.2021.00044'>
-      <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'>
+      <img src='https://img.shields.io/badge/Paper-PDF(NotFinalVersion)-green?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'>
     </a>
     <!-- <a href='https://arxiv.org/abs/2103.02371'>
       <img src='https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg' alt='Paper PDF'>
@@ -117,7 +118,12 @@ In our experiment, we trained a distribution analyzer with one transformation (e
 
 ## Citation
 ```bibtex
-@inproceedings{
+@inproceedings{xiao2022repairing,
+  title={Repairing Failure-inducing Inputs with Input Reflection},
+  author={Xiao, Yan and Lin, Yun and Beschastnikh, Ivan and Sun, Changsheng and Rosenblum, David S and Dong, Jin Song},
+  booktitle={2021 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  year={2022},
+  organization={IEEE}
 }
 ```
 
