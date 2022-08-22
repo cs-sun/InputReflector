@@ -8,11 +8,12 @@ A runtime approach that mitigates
 DNN mis-predictions caused by the unexpected inputs to
 the DNN.</b>
 <br/><br/>
-<a href=""><img src="images/figure1.png" alt="Logo" width=90%></a>
+<a href=""><img src="images/figure1.png" alt="Logo" width=80%></a>
 
 
 
 <p align="center">
+Code release and supplementary materials for:</br>
   <b>"Repairing Failure-inducing Inputs with Input Reflection"</b></br>
     The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2022</b>)
     <br />
@@ -38,7 +39,7 @@ the DNN.</b>
 <p align="center">
     <!-- <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
     <a href="https://pytorchlightning.ai/"><img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white"></a><br><br> -->
-    <a href='https://dl.acm.org/doi/abs/10.1109/ICSE43902.2021.00044'>
+    <a href='http://linyun.info/publications/ase22.pdf'>
       <img src='https://img.shields.io/badge/Paper-PDF(NotFinalVersion)-green?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'>
     </a>
     <!-- <a href='https://arxiv.org/abs/2103.02371'>
@@ -58,15 +59,6 @@ the DNN.</b>
   </p>
 </p>
 
-
-
-
-
-## Introduction
-
-In this paper we describe a runtime approach that mitigates
-DNN mis-predictions caused by the unexpected runtime inputs to
-the DNN.
 
 ## Repo structure
 - `resnet.py`: code for Resnet-20 to train the subject models
@@ -132,4 +124,4 @@ This code and model are available for non-commercial scientific research purpose
 
 ## Contact
 
-For more questions, please contact cssun@u.nus.edu
+For more questions, please contact <cssun@u.nus.edu>.
