@@ -113,7 +113,7 @@ In our experiment, we trained a distribution analyzer with one transformation (e
 @inproceedings{xiao2022repairing,
   title={Repairing Failure-inducing Inputs with Input Reflection},
   author={Xiao, Yan and Lin, Yun and Beschastnikh, Ivan and Sun, Changsheng and Rosenblum, David S and Dong, Jin Song},
-  booktitle={2021 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  booktitle={The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
   year={2022},
   organization={IEEE}
 }
