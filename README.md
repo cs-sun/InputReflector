@@ -40,7 +40,7 @@ Code release and supplementary materials for:</br>
     <!-- <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
     <a href="https://pytorchlightning.ai/"><img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white"></a><br><br> -->
     <a href='https://sunchangsheng.com/assets/papers/InputReflector-ASE22-Paper.pdf'>
-      <img src='https://img.shields.io/badge/Paper-PDF(NotFinalVersion)-green?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'>
+      <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='Paper PDF'>
     </a>
     <!-- <a href='https://arxiv.org/abs/2103.02371'>
       <img src='https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg' alt='Paper PDF'>
